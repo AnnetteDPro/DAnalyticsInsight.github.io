@@ -19,13 +19,13 @@ Passionnée par le Data, j'aide à résoudre vos problématiques et  prendre les
 ### Projet 1: Estimation de ventes e-commerce
 
 - **Description :** Analyse des ventes l'une des plus grandes plateformes de commerce électronique au Pakistan. Mon objectif est de sortir l'information importante pour le conseil d'administration de l'entreprise et les aider à prendre les décisions pertinentes.
-- **Outils utilisés :** Python (Pandas, Matplotlib), Streamlit
+- **Outils utilisés :** Python (Pandas, Matplotlib),Jupyter Notebook, Streamlit
 - **Lien vers le projet :** https://annettedpro-ecom-app-lb5wlj.streamlit.app/
 
-### Projet 2: Exploration des données du marché immobilier
+### Projet 2: Création Dashboard des ventes Power BI
 
-- **Description :** Exploration des données du marché immobilier pour identifier les facteurs influençant les prix des logements.
-- **Outils utilisés :** Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
+- **Description :** L'objectif d'un tableau de bord est de visualiser d'un seul coup d'œil les indicateurs clés de performance et les résultats les plus importants. Les tableaux de bord sont un moyen interactif de voir comment l'entreprise ou le projet fonctionne. 
+- **Outils utilisés :** Power BI, DAX
 - **Lien vers le projet :** [Exploration du marché immobilier](lien_vers_le_projet_2)
 
 
@@ -34,5 +34,5 @@ Passionnée par le Data, j'aide à résoudre vos problématiques et  prendre les
 
 N'hésitez pas à me contacter si vous avez des questions, des opportunités de collaboration ou simplement pour discuter de données !
 
-- Email : votre@email.com
-- LinkedIn : [Votre Nom sur LinkedIn](lien_vers_votre_profil_LinkedIn)
+- Email : dubusanna@gmail.com
+- LinkedIn : https://www.linkedin.com/in/annadubus/
